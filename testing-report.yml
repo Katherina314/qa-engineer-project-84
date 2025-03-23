@@ -3,20 +3,16 @@
     Проверка смены языка
   status: pass
 
-  - summary: |
+- summary: |
     Проверка смены языка и валюты
   status: pass
 
-  - summary: |
-    Проверка смены языка
+- summary: |
+    Проверка просмотра корзины
   status: pass
-
-  - summary: |
-    Проверка смены языка
-  status: pass
-
-  - summary: |
-    Проверка смены языка
+  
+- summary: |
+    Добавление товаров
   status: pass
 
 - summary: |
