@@ -1,11 +1,11 @@
 ---
 test-cases:
   - summary: |
-      Добавление товара в корзину
+      Проверка смены языка
     status: fail
 
   - summary: |
-      Добавление товара в корзину
+      Проверка смены языка
     status: pass
 
 bugreports:
