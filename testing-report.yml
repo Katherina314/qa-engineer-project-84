@@ -18,3 +18,36 @@
 - summary: |
     Добавление товаров
   status: fail
+
+- summary: |
+    Проверка поиска товара по ключевому слову
+  status: pass
+
+- summary: |
+    Проверка поиска товара по категории
+  status: fail
+
+- summary: |
+    Проверка фильтрации товаров по бренду
+  status: fail
+
+- summary: |
+    Проверка открытия карточки товара
+  status: pass
+
+- summary: |
+    Проверка добавления товара в корзину
+  status: pass
+
+- summary: |
+    Проверка удаления товара из корзины
+  status: pass
+
+- summary: |
+    Проверка мобильной версии магазина
+  status: fail
+
+- summary: |
+    Проверка совместимости сайта магазина с последними версиями браузеров Microsoft Edge, Internet Explorer, Mozilla Firefox, Google Chrome, Opera, Safari
+  status: fail
+  
