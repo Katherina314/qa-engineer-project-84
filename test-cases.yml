@@ -9,7 +9,6 @@
   steps:
     - Нажимаем на Language
     - Выбираем Russian
-    - Нажимаем Russian
   expected-result: |
     Весь текст должен отображаться на русском языке
 
@@ -22,9 +21,9 @@
   test-data: |
     Главная страница
   steps:
-    - Нажимаем на Language
-    - Выбираем Russian
-    - Нажимаем Russian
+    - открываем Devtools
+    - 
+    
   expected-result: |
     Весь текст должен отображаться на русском языке
 
